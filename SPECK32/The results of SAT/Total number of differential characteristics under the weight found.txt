@@ -1,0 +1,26 @@
+Input difference:0x2800,0x0010
+Output difference:0x0004,0x0014
+The total number of differential characteristics with weight 35 is 1;
+The total number of differential characteristics with weight 36 is 1;
+The total number of differential characteristics with weight 37 is 4;
+The total number of differential characteristics with weight 38 is 23;
+The total number of differential characteristics with weight 39 is 45;
+The total number of differential characteristics with weight 40 is 115;
+The total number of differential characteristics with weight 41 is 188;
+The total number of differential characteristics with weight 42 is 268;
+The total number of differential characteristics with weight 43 is 465;
+The total number of differential characteristics with weight 44 is 624;
+The total number of differential characteristics with weight 45 is 909;
+The total number of differential characteristics with weight 46 is 1383;
+The total number of differential characteristics with weight 47 is 2113;
+The total number of differential characteristics with weight 48 is 3371;
+The total number of differential characteristics with weight 49 is 10106;
+The total number of differential characteristics with weight 50 is 10106;
+The total number of differential characteristics with weight 51 is 19172;
+The total number of differential characteristics with weight 52 is 37210;
+The total number of differential characteristics with weight 53 is 71562;
+The total number of differential characteristics with weight 54 is 136937;
+The total number of differential characteristics with weight 55 is 258883;
+The total number of differential characteristics with weight 56 is 487792;
+The total number of differential characteristics with weight 57 is 920800;
+The total number of differential characteristics with weight 58 is 1744318.
