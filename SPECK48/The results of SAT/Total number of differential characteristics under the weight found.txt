@@ -1,0 +1,30 @@
+Input difference:0x080048,0x080800
+Output difference:0x840084,0xA00080
+The total number of differential characteristics with weight 49 is 3;
+The total number of differential characteristics with weight 50 is 0;
+The total number of differential characteristics with weight 51 is 1;
+The total number of differential characteristics with weight 52 is 0;
+The total number of differential characteristics with weight 53 is 6;
+The total number of differential characteristics with weight 54 is 13;
+The total number of differential characteristics with weight 55 is 6;
+The total number of differential characteristics with weight 56 is 18;
+The total number of differential characteristics with weight 57 is 16;
+The total number of differential characteristics with weight 58 is 46;
+The total number of differential characteristics with weight 59 is 71;
+The total number of differential characteristics with weight 60 is 89;
+The total number of differential characteristics with weight 61 is 163;
+The total number of differential characteristics with weight 62 is 181;
+The total number of differential characteristics with weight 63 is 362;
+The total number of differential characteristics with weight 64 is 506;
+The total number of differential characteristics with weight 65 is 728;
+The total number of differential characteristics with weight 66 is 1201;
+The total number of differential characteristics with weight 67 is 1849;
+The total number of differential characteristics with weight 68 is 2993;
+The total number of differential characteristics with weight 69 is 4732;
+The total number of differential characteristics with weight 70 is 7375;
+The total number of differential characteristics with weight 71 is 11737;
+The total number of differential characteristics with weight 72 is 19222;
+The total number of differential characteristics with weight 72 is 30948;
+The total number of differential characteristics with weight 72 is 50620;
+The total number of differential characteristics with weight 72 is 82822;
+The total number of differential characteristics with weight 72 is 136921.
